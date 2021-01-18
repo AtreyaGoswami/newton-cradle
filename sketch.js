@@ -5,7 +5,7 @@ const Bodies = Matter.Bodies;
 const Body = Matter.Body;
 const Render = Matter.Render;
 const Constraint = Matter.Constraint;
-var bob1,bob2,bob3, bob4,bob5, roof, rope1,rope2,rope3, rope4,rope5,world;
+var bob1,bob2,bob3, bob4,bob5, r, rope1,rope2,rope3, rope4,rope5,world;
 
 
 function setup() {
